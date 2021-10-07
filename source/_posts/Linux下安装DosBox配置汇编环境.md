@@ -1,8 +1,8 @@
 ---
 title: Linux下安装DosBox配置汇编环境
 date: 2021-02-01 19:26:14
-tags: ["DosBox"]
-categories: ["汇编"]
+tags: ["汇编"]
+categories: ["计算机基础"]
 ---
 
 转载：https://blog.csdn.net/qq_35572368/article/details/104638739
