@@ -4,7 +4,7 @@
 
 # Site
 title: 蒙珣的博客
-subtitle: 记录生活的点点滴滴
+subtitle: 我的肺吸入空气般的时间，呼出飘落沙粒般的过去
 description: 过去就像攥在手中的一把干沙，自以为攥得很紧，其实早就从指缝中流光了。
 keywords:
 author: 蒙珣
@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: 
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
